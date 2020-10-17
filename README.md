@@ -3,4 +3,4 @@
 Hello buddies!
 
 I´m Enrique León, I like Html,Css and Visual Studio Code.
-I like science fiction and cartoon i think is very interesting.
+I like science fiction and cartoon i think are very interesting.
